@@ -1,1 +1,1 @@
-# mkdocs-material-doc-tutor
+# mkdocs-material-doc-tutorial
